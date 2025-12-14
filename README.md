@@ -81,7 +81,7 @@ Features:
 - Tokens are what allow the player to play the claw machine
 - Elephants will hold grudges if the player wrongs them
 - Hawks will occasionally hunt axolotls, frogs, cods, salmons, tropical fish, silverfish, endermites, chickens, and rabbits
-- Eagles will hunt the same as the hawk but more frequently, and also target armadillos, foxes, goats, and baby turtles
+- Eagles will hunt the same as the hawk but more frequently, and also target armadillos, foxes, goats, creepers, spiders, cave spiders, and baby turtles
 - Scallywags repel poachers with annoying sounds
 
 Advancements: 
