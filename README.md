@@ -41,6 +41,7 @@ Blocks:
 - Doll
 - Stuffed toy
 - Mammoth Reviver
+- Suspicious snow
 
 Items:
 - Token
