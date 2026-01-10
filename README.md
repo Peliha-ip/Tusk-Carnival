@@ -105,6 +105,8 @@ Foods:
 - Corn dog
 - Lemonade
 - Slush
+- Raw Mammoth
+- Cooked Mammoth
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens
