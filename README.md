@@ -21,7 +21,6 @@ Mobs:
 - Tiger
 - Leopard
 - Walrus
-- Seal
 - Sea lion
 - Hawk
 - Bald eagle
@@ -84,7 +83,6 @@ Items:
 - Tiger spawn egg
 - Leopard spawn egg
 - Walrus spawn egg
-- Seal spawn egg
 - Sea lion spawn egg
 - Hawk spawn egg
 - Eagle spawn egg
