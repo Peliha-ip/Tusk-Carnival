@@ -39,7 +39,7 @@ Structures:
 Blocks:
 - Doll
 - Stuffed toy
-- Mammoth Reviver
+- Mammoth reviver
 - Suspicious snow
 
 Items:
