@@ -40,6 +40,7 @@ Blocks:
 - Doll
 - Stuffed toy
 - Mammoth reviver
+- Mammoth egg
 - Suspicious snow
 
 Items:
@@ -63,7 +64,6 @@ Items:
 - Heart banner pattern
 - Mammoth husk
 - Mammoth DNA
-- Mammoth egg
 - Bombast spawn egg
 - Scallywag spawn egg
 - Puppeteer spawn egg
