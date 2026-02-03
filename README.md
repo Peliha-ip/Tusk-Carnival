@@ -135,3 +135,4 @@ Advancements:
 - It's Showtime (attend a circus show without animals)
 - I Just Can't Wait to be King (release every animal from every carriage in one circus)
 - You Got a Prize (win a prize at the claw machine)
+- Paironormal Carnival (find a circus in the end)
