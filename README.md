@@ -11,6 +11,7 @@ Mobs:
 - Puppeteer
 - Firebreather
 - Bird trainer
+- Abstract
 - Animal tamer
 - Elephant
 - Mammoth
@@ -27,6 +28,7 @@ Mobs:
 - Zebra
 - Grizzly bear
 - Poacher
+- Illusioner
 
 Structures:
 - Circus
@@ -74,6 +76,7 @@ Items:
 - Firebreather spawn egg
 - Bird trainer spawn egg
 - Tuff golem spawn egg
+- Abstract spawn egg
 - Elephant spawn egg
 - Mammoth spawn egg
 - Rhinoceros spawn egg
@@ -90,6 +93,7 @@ Items:
 - Grizzly bear spawn egg
 - Poacher spawn egg
 - Animal tamer spawn egg
+- Illusioner spawn egg
 
 Foods:
 - Popcorn
@@ -136,14 +140,21 @@ Features:
 - Each circus spawns an animal tamer that will drop the carnival armor trim and banner pattern upon defeat
 - Carriages can be attached to leads and the animals inside can be released
 - Carriages can have wolves, ocelots, cats, horses, elephants, mammoths, rhinoceroses, lions, tigers, leopards, hyenas, walruses, sea lions, allays, sniffers, grizzly bears, zebras, skeleton horses, zombie horses, donkeys, camels, and camel husks
-- Poachers are hostile towards armadillos, camels, camel husks, frogs, glow squids, axolotls, mooshrooms, ocelots, parrots, sniffers, turtles, dolphins, foxes, goats, nautili, pandas, polar bears, zombie nautili, guardians, hoglins, shulkers, wardens, zoglins, elephants, mammoths, rhinoceroses, lions, tigers, leopards, walruses, sea lions, players, iron golems, villagers, and hippopotamuses
+- Poachers are hostile towards armadillos, camels, camel husks, frogs, glow squids, axolotls, mooshrooms, ocelots, parrots, sniffers, turtles, dolphins, foxes, goats, nautiluses, pandas, polar bears, zombie nautiluses, guardians, hoglins, shulkers, wardens, zoglins, elephants, mammoths, rhinoceroses, lions, tigers, leopards, walruses, sea lions, players, iron golems, villagers, and hippopotamuses
 - Bombasts will dance near jukeboxes
 - Tokens are what allow the player to play the claw machine
 - Elephants will hold grudges if the player wrongs them
 - Hawks will occasionally hunt axolotls, frogs, cods, salmons, tropical fish, silverfish, endermites, chickens, and rabbits
 - Eagles will hunt the same as the hawk but more frequently, and also target armadillos, foxes, goats, creepers, spiders, cave spiders, and baby turtles
 - Scallywags repel poachers with annoying sounds
-- Poachers might spawn in raids
+- Poachers and illusioners might spawn in raids
+- Renaming a mammoth "Manny", "Ellie", or "Tuskski" will change the model to match either characters
+- Renaming a ribonner "Gangle" or "Shhimmer" will change its model to match either characters
+- Renaming a hyena "Shenzi", "Banzai", "Ed", or "Hyehehe" will change its model to match either characters
+- Renaming a scallywag "BBNO$" or "Scallyrags" will change its model to match Scallyrags from My Singing Monsters
+- Renaming a jester "Pomni" or "Jevil" will change its model to either character
+- Renaming a bird trainer "Airstrike" will change its model to match the sensei from Skylanders Imaginators
+- Renaming a puppeteer "Pinocchio", "Hairionette", or "Jeffy" will change the puppeteer's puppet to match either characters
 
 Advancements: 
 - Grand Carnival (find a circus with a fair)
@@ -160,3 +171,4 @@ Advancements:
 - I Just Can't Wait to be King (release every animal from every carriage in one circus)
 - You Got a Prize (win a prize at the claw machine)
 - Paironormal Carnival (find a circus in the end)
+- Did you abstract (encounter an abstract)
