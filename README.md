@@ -111,7 +111,7 @@ Foods:
 - Cyan slush (marine punch)
 - Light blue slush (cotton candy)
 - Blue slush (blue raspberry)
-- Magenta slush (raspberry)
+- Magenta slush (watermelon)
 - Pink slush (bubble gum)
 - Purple slush (grape)
 - Black slush (enderman blood)
