@@ -102,7 +102,23 @@ Foods:
 - Candy apple
 - Corn dog
 - Lemonade
-- Slush
+- Slush (bland)
+- Red slush (cherry)
+- Orange slush (orange)
+- Yellow slush (lemon)
+- Lime slush (lime)
+- Green slush (sour apple)
+- Cyan slush (marine punch)
+- Light blue slush (cotton candy)
+- Blue slush (blue raspberry)
+- Magenta slush (raspberry)
+- Pink slush (bubble gum)
+- Purple slush (grape)
+- Black slush (enderman blood)
+- White slush (coconut)
+- Gray slush (rascal juice)
+- Light gray slush (miner energy)
+- Brown slush (root beer)
 - Raw mammoth
 - Cooked mammoth
 - Cheese
