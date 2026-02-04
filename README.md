@@ -105,6 +105,14 @@ Foods:
 - Slush
 - Raw mammoth
 - Cooked mammoth
+- Cheese
+- Tomato
+- Lemon
+- Orange
+- Orangeade
+- Orange juice
+- Apple juice
+- Corn
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens
