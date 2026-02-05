@@ -43,7 +43,9 @@ Blocks:
 - Stuffed toy
 - Mammoth reviver
 - Mammoth egg
-- Suspicious snow
+- Corn crop
+- Tomato bush
+- Orange bush
 
 Items:
 - Token
@@ -134,6 +136,7 @@ Foods:
 - Orange juice
 - Apple juice
 - Corn
+- Fried chicken
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens
