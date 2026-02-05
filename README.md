@@ -142,6 +142,8 @@ Foods:
 - Corn
 - Fried chicken
 - Pepperoni
+- Fried fish
+- Fish and chips
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens
