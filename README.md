@@ -18,9 +18,9 @@ Mobs:
 - Rhinoceros
 - Hippopotamus
 - Hyena
-- Lion
-- Tiger
-- Leopard
+- Lion (appear in 4 variants: red-maned, wild, white, and black)
+- Tiger (appear in 2 variants: wild and white)
+- Leopard (appear in 2 variants: spotted and black)
 - Walrus
 - Sea lion
 - Hawk
