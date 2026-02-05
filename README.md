@@ -66,6 +66,7 @@ Items:
 - Heart banner pattern
 - Mammoth husk
 - Mammoth DNA
+- Quiver
 - Bombast spawn egg
 - Scallywag spawn egg
 - Puppeteer spawn egg
