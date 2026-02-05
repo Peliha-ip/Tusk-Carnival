@@ -155,6 +155,8 @@ Features:
 - Renaming a jester "Pomni" or "Jevil" will change its model to either character
 - Renaming a bird trainer "Airstrike" will change its model to match the sensei from Skylanders Imaginators
 - Renaming a puppeteer "Pinocchio", "Hairionette", or "Jeffy" will change the puppeteer's puppet to match either characters
+- Renaming a bombast "Dakktyl" will change its model to match the character from My Singing Monsters
+- Renaming an abstract "abstraction" or "Illoost" will change its model to either match the consequence of goong insane in the Amazing Digital Circus or the character from My Singing Monsters
 
 Advancements: 
 - Grand Carnival (find a circus with a fair)
