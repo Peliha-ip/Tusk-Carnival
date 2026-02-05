@@ -50,6 +50,7 @@ Blocks:
 - Pepperoni cutter
 - Fryer
 - Juicer
+- Onion crop
 
 Items:
 - Token
@@ -144,6 +145,8 @@ Foods:
 - Pepperoni
 - Fried fish
 - Fish and chips
+- Onion
+- Onion ring
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens
