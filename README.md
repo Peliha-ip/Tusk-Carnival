@@ -46,6 +46,10 @@ Blocks:
 - Corn crop
 - Tomato bush
 - Orange bush
+- Slush machine
+- Pepperoni cutter
+- Fryer
+- Juicer
 
 Items:
 - Token
@@ -137,6 +141,7 @@ Foods:
 - Apple juice
 - Corn
 - Fried chicken
+- Pepperoni
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens
