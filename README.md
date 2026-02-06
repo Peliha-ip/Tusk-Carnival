@@ -149,28 +149,29 @@ Foods:
 - Onion ring
 
 Features:
-- Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens
-- If a scallywag is nearby, the player should follow it as it will lead to a circus
-- Each circus spawns an animal tamer that will drop the carnival armor trim and banner pattern upon defeat
-- Carriages can be attached to leads and the animals inside can be released
-- Carriages can have wolves, ocelots, cats, horses, elephants, mammoths, rhinoceroses, lions, tigers, leopards, hyenas, walruses, sea lions, allays, sniffers, grizzly bears, zebras, skeleton horses, zombie horses, donkeys, camels, and camel husks
-- Poachers are hostile towards armadillos, camels, camel husks, frogs, glow squids, axolotls, mooshrooms, ocelots, parrots, sniffers, turtles, dolphins, foxes, goats, nautiluses, pandas, polar bears, zombie nautiluses, guardians, hoglins, shulkers, wardens, zoglins, elephants, mammoths, rhinoceroses, lions, tigers, leopards, walruses, sea lions, players, iron golems, villagers, and hippopotamuses
-- Bombasts will dance near jukeboxes
-- Tokens are what allow the player to play the claw machine
-- Elephants will hold grudges if the player wrongs them
-- Hawks will occasionally hunt axolotls, frogs, cods, salmons, tropical fish, silverfish, endermites, chickens, and rabbits
-- Eagles will hunt the same as the hawk but more frequently, and also target armadillos, foxes, goats, creepers, spiders, cave spiders, and baby turtles
-- Scallywags repel poachers with annoying sounds
-- Poachers and illusioners might spawn in raids
-- Renaming a mammoth "Manny", "Ellie", or "Tuskski" will change the model to match either characters
-- Renaming a ribonner "Gangle" or "Shhimmer" will change its model to match either characters
-- Renaming a hyena "Shenzi", "Banzai", "Ed", or "Hyehehe" will change its model to match either characters
-- Renaming a scallywag "BBNO$" or "Scallyrags" will change its model to match Scallyrags from My Singing Monsters
-- Renaming a jester "Pomni" or "Jevil" will change its model to either character
-- Renaming a bird trainer "Airstrike" will change its model to match the sensei from Skylanders Imaginators
-- Renaming a puppeteer "Pinocchio", "Hairionette", or "Jeffy" will change the puppeteer's puppet to match either characters
-- Renaming a bombast "Dakktyl" will change its model to match the character from My Singing Monsters
-- Renaming an abstract "abstraction" or "Illoost" will change its model to either match the consequence of goong insane in the Amazing Digital Circus or the character from My Singing Monsters
+- Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens.
+- If a scallywag is nearby, the player should follow it as it will lead to a circus.
+- Each circus spawns an animal tamer that will drop the carnival armor trim and banner pattern upon defeat.
+- Carriages can be attached to leads and the animals inside can be released.
+- Carriages can have wolves, ocelots, cats, horses, elephants, mammoths, rhinoceroses, lions, tigers, leopards, hyenas, walruses, sea lions, allays, sniffers, grizzly bears, zebras, skeleton horses, zombie horses, donkeys, camels, and camel husks.
+- Poachers are hostile towards armadillos, camels, camel husks, frogs, glow squids, axolotls, mooshrooms, ocelots, parrots, sniffers, turtles, dolphins, foxes, goats, nautiluses, pandas, polar bears, zombie nautiluses, guardians, hoglins, shulkers, wardens, zoglins, elephants, mammoths, rhinoceroses, lions, tigers, leopards, walruses, sea lions, players, iron golems, villagers, and hippopotamuses.
+- Bombasts will dance near jukeboxes.
+- Tokens are what allow the player to play the claw machine.
+- Elephants will hold grudges if the player wrongs them.
+- Hawks will occasionally hunt axolotls, frogs, cods, salmons, tropical fish, silverfish, endermites, chickens, and rabbits.
+- Eagles will hunt the same as the hawk but more frequently, and also target armadillos, foxes, goats, creepers, spiders, cave spiders, and baby turtles.
+- Scallywags repel poachers with annoying sounds.
+- Poachers and illusioners might spawn in raids.
+- Renaming a mammoth "Manny", "Ellie", or "Tuskski" will change the model to match either characters.
+- Renaming a ribonner "Gangle" or "Shhimmer" will change its model to match either characters.
+- Renaming a hyena "Shenzi", "Banzai", "Ed", or "Hyehehe" will change its model to match either characters.
+- Renaming a scallywag "BBNO$" or "Scallyrags" will change its model to match Scallyrags from My Singing Monsters.
+- Renaming a jester "Pomni" or "Jevil" will change its model to either character.
+- Renaming a bird trainer "Airstrike" will change its model to match the sensei from Skylanders Imaginators.
+- Renaming a puppeteer "Pinocchio", "Hairionette", or "Jeffy" will change the puppeteer's puppet to match either characters.
+- Renaming a bombast "Dakktyl" will change its model to match the character from My Singing Monsters.
+- Renaming an abstract "abstraction" or "Illoost" will change its model to either match the consequence of goong insane in the Amazing Digital Circus or the character from My Singing Monsters.
+- Fletching tables now have functionality. They allow you to dip arrows into potions, making tipped arrows.
 
 Advancements: 
 - Grand Carnival (find a circus with a fair)
