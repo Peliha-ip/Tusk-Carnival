@@ -37,6 +37,7 @@ Structures:
 - End circus
 - Claw machine
 - Food truck
+- Bowling alley
 
 Blocks:
 - Doll
@@ -51,6 +52,10 @@ Blocks:
 - Fryer
 - Juicer
 - Onion crop
+- Lane block
+- Gutter block
+- Scoring board
+- Bowling pin
 
 Items:
 - Token
@@ -74,6 +79,7 @@ Items:
 - Mammoth husk
 - Mammoth DNA
 - Quiver
+- Bowling ball
 - Bombast spawn egg
 - Scallywag spawn egg
 - Puppeteer spawn egg
@@ -174,18 +180,19 @@ Features:
 - Fletching tables now have functionality. They allow you to dip arrows into potions, making tipped arrows.
 
 Advancements: 
-- Grand Carnival (find a circus with a fair)
-- One More Try (use a token on the claw machine)
-- Shady Dealings (find a black market)
+- Grand Carnival (Find a circus with a fair)
+- One More Try (Use a token on the claw machine)
+- Shady Dealings (Find a black market)
 - Full Deck (collect all 52 cards)
-- Hide and Seek Champion (find the same rascal three times)
-- Display of Pride (use a tuff golem to display a diamond)
-- Gentle Giant (earn the trust of an elephant)
-- Go Touch Grass (release an animal from the carriage)
-- Fight and Flight (train a hawk or an eagle with the bird glove)
-- It's a Warning (witness a hippopotamus yawn before it charges at you)
-- It's Showtime (attend a circus show without animals)
-- I Just Can't Wait to be King (release every animal from every carriage in one circus)
-- You Got a Prize (win a prize at the claw machine)
-- Paironormal Carnival (find a circus in the end)
-- Did you abstract (encounter an abstract)
+- Hide and Seek Champion (Gind the same rascal three times)
+- Display of Pride (Use a tuff golem to display a diamond)
+- Gentle Giant (Earn the trust of an elephant)
+- Go Touch Grass (Release an animal from the carriage)
+- Fight and Flight (Train a hawk or an eagle with the bird glove)
+- It's a Warning (Witness a hippopotamus yawn before it charges at you)
+- It's Showtime (Attend a circus show without animals)
+- I Just Can't Wait to be King (Release every animal from every carriage in one circus)
+- You Got a Prize (Win a prize at the claw machine)
+- Paironormal Carnival (Find a circus in the end)
+- Did you abstract (Encounter an abstract)
+- Strike!!!! (Get a strike at bowling)
