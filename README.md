@@ -179,6 +179,7 @@ Features:
 - Renaming a bombast "Dakktyl" will change its model to match the character from My Singing Monsters.
 - Renaming an abstract "abstraction" or "Illoost" will change its model to either match the consequence of goong insane in the Amazing Digital Circus or the character from My Singing Monsters.
 - Fletching tables now have functionality. They allow you to dip arrows into potions, making tipped arrows.
+- Renaming a lion "Scar" will give a scar to a lion's eye, just like the villain from The Lion King.
 
 Advancements: 
 - Grand Carnival (Find a circus with a fair)
