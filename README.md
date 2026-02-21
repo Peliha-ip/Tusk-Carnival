@@ -56,6 +56,7 @@ Blocks:
 - Gutter block
 - Scoring board
 - Bowling pin
+- Bowling railing
 
 Items:
 - Token
@@ -196,3 +197,5 @@ Advancements:
 - Paironormal Carnival (Find a circus in the end)
 - Did you abstract (Encounter an abstract)
 - Strike!!!! (Get a strike at bowling)
+- Wii Sports Pro (Get a strike by rolling a bowling ball on the railing)
+- Blunt Ball (Deal damage to mobs by rolling a bowling ball on them)
