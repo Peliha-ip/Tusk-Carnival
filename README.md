@@ -177,7 +177,7 @@ Features:
 - Renaming a bird trainer "Airstrike" will change its model to match the sensei from Skylanders Imaginators.
 - Renaming a puppeteer "Pinocchio", "Hairionette", or "Jeffy" will change the puppeteer's puppet to match either characters.
 - Renaming a bombast "Dakktyl" will change its model to match the character from My Singing Monsters.
-- Renaming an abstract "abstraction" or "Illoost" will change its model to either match the consequence of goong insane in the Amazing Digital Circus or the character from My Singing Monsters.
+- Renaming an abstract "abstraction" or "Illoost" will change its model to either match the consequence of going insane in the Amazing Digital Circus or the character from My Singing Monsters.
 - Fletching tables now have functionality. They allow you to dip arrows into potions, making tipped arrows.
 - Renaming a lion "Scar" will give a scar to a lion's eye, just like the villain from The Lion King.
 - Renaming a grizzly bear "Freddy", "Fazbear", or "Freddy Fazbear" will change its texture to match the character from Five Nights at Freddy's. Renaming a grizzly bear "Fredbear" or "Golden Freddy" will have the Freddy texture while being golden and a piglin magnet.
