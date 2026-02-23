@@ -29,6 +29,7 @@ Mobs:
 - Grizzly bear
 - Poacher
 - Illusioner
+- Giraffe
 
 Structures:
 - Circus
@@ -109,6 +110,7 @@ Items:
 - Poacher spawn egg
 - Animal tamer spawn egg
 - Illusioner spawn egg
+- Giraffe spawn egg
 
 Foods:
 - Popcorn
