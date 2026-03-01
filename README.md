@@ -18,9 +18,9 @@ Mobs:
 - Rhinoceros
 - Hippopotamus
 - Hyena
-- Lion (appear in 4 variants: red-maned, wild, white, and black)
-- Tiger (appear in 2 variants: wild and white)
-- Leopard (appear in 2 variants: spotted and black)
+- Lion (appears in 4 variants: red-maned, wild, white, and black)
+- Tiger (appears in 2 variants: wild and white)
+- Leopard (appears in 2 variants: spotted and black)
 - Walrus
 - Sea lion
 - Hawk
@@ -171,9 +171,9 @@ Features:
 - Eagles will hunt the same as the hawk but more frequently, and also target armadillos, foxes, goats, creepers, spiders, cave spiders, and baby turtles.
 - Scallywags repel poachers with annoying sounds.
 - Poachers and illusioners might spawn in raids.
-- Renaming a mammoth "Manny", "Ellie", or "Tuskski" will change the model to match either characters.
-- Renaming a ribonner "Gangle" or "Shhimmer" will change its model to match either characters.
-- Renaming a hyena "Shenzi", "Banzai", "Ed", or "Hyehehe" will change its model to match either characters.
+- Renaming a mammoth "Manny", "Ellie", or "Tuskski" will change the model to match either character.
+- Renaming a ribbonner "Gangle" or "Shhimmer" will change its model to match either character.
+- Renaming a hyena "Shenzi", "Banzai", "Ed", or "Hyehehe" will change its model to match either character.
 - Renaming a scallywag "BBNO$" or "Scallyrags" will change its model to match Scallyrags from My Singing Monsters.
 - Renaming a jester "Pomni" or "Jevil" will change its model to either character.
 - Renaming a bird trainer "Airstrike" will change its model to match the sensei from Skylanders Imaginators.
@@ -189,7 +189,7 @@ Advancements:
 - One More Try (Use a token on the claw machine)
 - Shady Dealings (Find a black market)
 - Full Deck (collect all 52 cards)
-- Hide and Seek Champion (Gind the same rascal three times)
+- Hide and Seek Champion (Find the same rascal three times)
 - Display of Pride (Use a tuff golem to display a diamond)
 - Gentle Giant (Earn the trust of an elephant)
 - Go Touch Grass (Release an animal from the carriage)
