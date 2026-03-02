@@ -203,3 +203,6 @@ Advancements:
 - Strike!!!! (Get a strike at bowling)
 - Wii Sports Pro (Get a strike by rolling a bowling ball on the railing)
 - Blunt Ball (Deal damage to mobs by rolling a bowling ball on them)
+
+Tag:
+- Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester
