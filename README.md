@@ -82,6 +82,7 @@ Items:
 - Mammoth DNA
 - Quiver
 - Bowling ball
+- Puppet
 - Bombast spawn egg
 - Scallywag spawn egg
 - Puppeteer spawn egg
