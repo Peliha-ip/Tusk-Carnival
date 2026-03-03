@@ -12,6 +12,7 @@ Mobs:
 - Firebreather
 - Bird trainer
 - Abstract
+- Mime
 - Animal tamer
 - Elephant
 - Mammoth
@@ -94,6 +95,7 @@ Items:
 - Bird trainer spawn egg
 - Tuff golem spawn egg
 - Abstract spawn egg
+- Mime spawn egg
 - Elephant spawn egg
 - Mammoth spawn egg
 - Rhinoceros spawn egg
@@ -183,7 +185,7 @@ Features:
 - Renaming an abstract "abstraction" or "Illoost" will change its model to either match the consequence of going insane in the Amazing Digital Circus or the character from My Singing Monsters.
 - Fletching tables now have functionality. They allow you to dip arrows into potions, making tipped arrows.
 - Renaming a lion "Scar" will give a scar to a lion's eye, just like the villain from The Lion King.
-- Renaming a grizzly bear "Freddy", "Fazbear", or "Freddy Fazbear" will change its texture to match the character from Five Nights at Freddy's. Renaming a grizzly bear "Fredbear" or "Golden Freddy" will have the Freddy texture while being golden and a piglin magnet.
+- Renaming a grizzly bear "Freddy", "Fazbear", or "Freddy Fazbear" will change its texture to match the character from Five Nights at Freddy's. Renaming a grizzly bear "Fredbear" or "Golden Freddy" will give it the Freddy texture, be golden, and make it a piglin magnet.
 
 Advancements: 
 - Grand Carnival (Find a circus with a fair)
@@ -206,4 +208,4 @@ Advancements:
 - Blunt Ball (Deal damage to mobs by rolling a bowling ball on them)
 
 Tag:
-- Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester
+- Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester, mime
