@@ -31,6 +31,7 @@ Mobs:
 - Poacher
 - Illusioner
 - Giraffe
+- Platybelodon
 
 Structures:
 - Circus
@@ -46,6 +47,8 @@ Blocks:
 - Stuffed toy
 - Mammoth reviver
 - Mammoth egg
+- Platybelodon reviver
+- Platybelodon egg
 - Corn crop
 - Tomato bush
 - Orange bush
@@ -81,6 +84,8 @@ Items:
 - Heart banner pattern
 - Mammoth husk
 - Mammoth DNA
+- Platybelodon husk
+- Platybelodon DNA
 - Quiver
 - Bowling ball
 - Puppet
@@ -114,6 +119,7 @@ Items:
 - Animal tamer spawn egg
 - Illusioner spawn egg
 - Giraffe spawn egg
+- Platybelodon spawn egg
 
 Foods:
 - Popcorn
