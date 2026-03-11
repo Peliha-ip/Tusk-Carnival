@@ -62,6 +62,7 @@ Blocks:
 - Scoring board
 - Bowling pin
 - Bowling railing
+- Mechanical bull
 
 Items:
 - Token
@@ -212,6 +213,7 @@ Advancements:
 - Strike!!!! (Get a strike at bowling)
 - Wii Sports Pro (Get a strike by rolling a bowling ball on the railing)
 - Blunt Ball (Deal damage to mobs by rolling a bowling ball on them)
+- That's Frank (Use the mechanical bull)
 
 Tag:
 - Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester, mime
