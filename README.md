@@ -166,6 +166,8 @@ Foods:
 - Fish and chips
 - Onion
 - Onion ring
+- Raw zebra
+- Cooked zebra
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens.
