@@ -201,7 +201,7 @@ Features:
 - If a scallywag is nearby, the player should follow it as it will lead to a circus.
 - Each circus spawns an animal tamer that will drop the carnival armor trim and banner pattern upon defeat.
 - Carriages can be attached to leads, and the animals inside can be released.
-- Carriages can have wolves, ocelots, cats, horses, elephants, mammoths, rhinoceroses, lions, tigers, leopards, hyenas, walruses, sea lions, allays, sniffers, grizzly bears, zebras, skeleton horses, zombie horses, donkeys, camels, and camel husks.
+- Carriages can have wolves, ocelots, cats, horses, elephants, mammoths, sulfur cubes, rhinoceroses, lions, tigers, leopards, hyenas, walruses, sea lions, allays, sniffers, grizzly bears, zebras, skeleton horses, zombie horses, donkeys, camels, and camel husks.
 - Poachers are hostile towards armadillos, camels, camel husks, frogs, glow squids, axolotls, mooshrooms, ocelots, parrots, sniffers, turtles, dolphins, foxes, goats, nautiluses, pandas, polar bears, zombie nautiluses, guardians, hoglins, shulkers, wardens, zoglins, elephants, mammoths, rhinoceroses, lions, tigers, leopards, walruses, sea lions, players, iron golems, villagers, and hippopotamuses.
 - Bombasts will dance near jukeboxes.
 - Tokens are what allow the player to play the claw machine.
