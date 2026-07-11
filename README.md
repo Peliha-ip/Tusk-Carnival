@@ -63,6 +63,7 @@ Blocks:
 - Bowling pin
 - Bowling railing
 - Mechanical bull
+- Memory Mixer
 
 Items:
 - Token
@@ -90,6 +91,23 @@ Items:
 - Quiver
 - Bowling ball
 - Puppet
+- Purple Memory (Fear)
+- Blue Memory (Calmness)
+- Green Memory (Disgust)
+- Yellow Memory (Joy)
+- Red Memory (Anger)
+- Orange Memory (Anxiety)
+- Cyan Memory (Envy)
+- Magenta Memory (Embarrasment)
+- Light Gray Memory (Ennui)
+- Gray Memory (Sadness)
+- Black Memory (Trauma)
+- White Memory (Nostalgia)
+- Pink Memory (Love)
+- Brown Memory (False)
+- Light Blue Memory (Idea)
+- Light Green Memory (Surprise)
+- Soulwhip
 - Bombast spawn egg
 - Scallywag spawn egg
 - Puppeteer spawn egg
@@ -168,6 +186,13 @@ Foods:
 - Onion ring
 - Raw zebra
 - Cooked zebra
+- Bottle of Memory Juice
+
+Dimension:
+- Abstracted Consciousness
+
+Effect:
+- Psychosis
 
 Features:
 - Finding a rascal three times will hand you an item, including exclusive items like cards, ivory, or tokens.
@@ -195,6 +220,12 @@ Features:
 - Fletching tables now have functionality. They allow you to dip arrows into potions, making tipped arrows.
 - Renaming a lion "Scar" will give a scar to a lion's eye, just like the villain from The Lion King.
 - Renaming a grizzly bear "Freddy", "Fazbear", or "Freddy Fazbear" will change its texture to match the character from Five Nights at Freddy's. Renaming a grizzly bear "Fredbear" or "Golden Freddy" will give it the Freddy texture, be golden, and make it a piglin magnet.
+- Right clicking on an abstract sends the player to its consciousness, with special loot: memories. Opening doors in this dimension will showcase possible scenarios: what the abstract is thinking about. Gathering all memories and blending them into a memory mixer gives the player memory juice. Putting a bottle of memory juice and a whip in a crafting table results in a soulwhip, a weapon that grants the psychosis effect to the target.
+- Drinking a bottle of memory juice gives the player the psychosis effect.
+- The psychosis effect sends whoever has it to have a psychosis. The following scenarios could play out on whoever has it: the target stops moving, the target moves erratically, the target moves in one direction without stopping, the screen becomes psychedelic, the target becomes feral, the target commits suicide like drowning or jumping in lava, phantoms spawn near the target, the target turns into an abstract, the target destroys blocks, painful scenarios and images start popping on screen in which the target freezes for half a second.
+- Drinking a slush clears away the psychosis effect. Slushes can also be fed to mobs with the psychosis effect.
+- Killing a villager would grant nearby villagers the psychosis effect.
+- Additionally, villagers might turn into abstracts if they don't get to move freely.
 
 Advancements: 
 - Grand Carnival (Find a circus with a fair)
@@ -216,6 +247,11 @@ Advancements:
 - Wii Sports Pro (Get a strike by rolling a bowling ball on the railing)
 - Blunt Ball (Deal damage to mobs by rolling a bowling ball on them)
 - That's Frank (Use the mechanical bull)
+- Isn't She Lovely (Enter the consciousness of an abstract)
+- Inside Out (Collect all memories)
+- Drink It & You'll Regret It (Collect a bottle of memory juice)
+- Your Best Nightmare (Craft a soulwhip)
+- Hakuna Matata (Drink a slush when having the psychosis effect)
 
 Tag:
 - Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester, mime
