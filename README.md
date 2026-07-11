@@ -13,6 +13,7 @@ Mobs:
 - Bird trainer
 - Abstract
 - Mime
+- Poise
 - Animal tamer
 - Elephant
 - Mammoth
@@ -120,6 +121,7 @@ Items:
 - Tuff golem spawn egg
 - Abstract spawn egg
 - Mime spawn egg
+- Poise spawn egg
 - Elephant spawn egg
 - Mammoth spawn egg
 - Rhinoceros spawn egg
@@ -254,4 +256,4 @@ Advancements:
 - Hakuna Matata (Drink a slush when having the psychosis effect)
 
 Tag:
-- Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester, mime
+- Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester, mime, poise
