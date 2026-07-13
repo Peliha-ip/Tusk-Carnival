@@ -14,6 +14,7 @@ Mobs:
 - Abstract
 - Mime
 - Poise
+- Roller
 - Animal tamer
 - Elephant
 - Mammoth
@@ -64,7 +65,7 @@ Blocks:
 - Bowling pin
 - Bowling railing
 - Mechanical bull
-- Memory Mixer
+- Memory mixer
 
 Items:
 - Token
@@ -92,23 +93,24 @@ Items:
 - Quiver
 - Bowling ball
 - Puppet
-- Purple Memory (Fear)
-- Blue Memory (Calmness)
-- Green Memory (Disgust)
-- Yellow Memory (Joy)
-- Red Memory (Anger)
-- Orange Memory (Anxiety)
-- Cyan Memory (Envy)
-- Magenta Memory (Embarrasment)
-- Light Gray Memory (Ennui)
-- Gray Memory (Sadness)
-- Black Memory (Trauma)
-- White Memory (Nostalgia)
-- Pink Memory (Love)
-- Brown Memory (False)
-- Light Blue Memory (Idea)
-- Light Green Memory (Surprise)
+- Purple memory (Fear)
+- Blue memory (Calmness)
+- Green memory (Disgust)
+- Yellow memory (Joy)
+- Red memory (Anger)
+- Orange memory (Anxiety)
+- Cyan memory (Envy)
+- Magenta memory (Embarrasment)
+- Light gray memory (Ennui)
+- Gray memory (Sadness)
+- Black memory (Trauma)
+- White memory (Nostalgia)
+- Pink memory (Love)
+- Brown memory (False)
+- Light blue memory (Idea)
+- Light green memory (Surprise)
 - Soulwhip
+- Circus ball
 - Bombast spawn egg
 - Scallywag spawn egg
 - Puppeteer spawn egg
@@ -122,6 +124,7 @@ Items:
 - Abstract spawn egg
 - Mime spawn egg
 - Poise spawn egg
+- Roller spawn egg
 - Elephant spawn egg
 - Mammoth spawn egg
 - Rhinoceros spawn egg
@@ -188,7 +191,7 @@ Foods:
 - Onion ring
 - Raw zebra
 - Cooked zebra
-- Bottle of Memory Juice
+- Bottle of memory juice
 
 Dimension:
 - Abstracted Consciousness
@@ -254,6 +257,7 @@ Advancements:
 - Drink It & You'll Regret It (Collect a bottle of memory juice)
 - Your Best Nightmare (Craft a soulwhip)
 - Hakuna Matata (Drink a slush when having the psychosis effect)
+- Let's Roll With It (Roll on a circus ball)
 
 Tag:
-- Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester, mime, poise
+- Trick mobs: bombast, rascal, tuff golem, scallywag, bird trainer, abstract, puppeteer, firebreather, jester, mime, poise, roller
