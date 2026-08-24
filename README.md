@@ -34,6 +34,7 @@ Mobs:
 - Illusioner
 - Giraffe
 - Platybelodon
+- Hyrax
 
 Structures:
 - Circus
@@ -144,6 +145,7 @@ Items:
 - Illusioner spawn egg
 - Giraffe spawn egg
 - Platybelodon spawn egg
+- Hyrax spawn egg
 
 Foods:
 - Popcorn
